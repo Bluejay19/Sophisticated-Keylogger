@@ -2,7 +2,7 @@
 
 This Python script is an advanced keylogger that captures keystrokes, screenshots, and clipboard content. It includes AES-GCM encryption for securing log files and allows customization through a JSON configuration file.
 
-Security Warning
+**Security Warning**
 
     Use responsibly: Ensure you have explicit permission to run this software on any device. Unauthorized keylogging is illegal and unethical.
     Encryption: This script uses AES-GCM encryption to protect the log file. Always consider additional security measures based on your needs.
